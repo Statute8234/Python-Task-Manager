@@ -14,7 +14,7 @@ The Python Task Manager, a Python-based interface, uses the tkinter library to d
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Rating: 8/10](#rating)
+- [Rating: 7/10](#rating)
 
 # About
 The Python Task Manager, a Python-based interface, is a user-friendly tool that uses the tkinter library to list and display system process information. It provides functionalities for monitoring and managing processes, including processes, performance, app history, startup apps, users, details, and services. The system information display uses psutil to fetch and display detailed information about system processes, organized in a tabular Treeview widget. The program also includes interactive features, including buttons for managing or interacting with listed processes and system functionalities, although actual actions are placeholder functions.
