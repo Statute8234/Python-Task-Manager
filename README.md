@@ -1,12 +1,11 @@
 # Python-Task-Manager 
-
-[![Static Badge](https://img.shields.io/badge/tkinter-maroon)](https://pypi.org/project/tkintertable/)
-[![Static Badge](https://img.shields.io/badge/matplotlib-dark_red)](https://pypi.org/project/matplotlib/)
-[![Static Badge](https://img.shields.io/badge/numpy-brown)](https://pypi.org/project/numpy/)
-[![Static Badge](https://img.shields.io/badge/psutil-firebrick)](https://pypi.org/project/psutil/)
-[![Static Badge](https://img.shields.io/badge/pygetwindow-crimson)](https://pypi.org/project/PyGetWindow/)
-
 The Python Task Manager, a Python-based interface, uses the tkinter library to display system process information. It offers a user-friendly GUI with buttons for various tasks, including Processes, Performance, App History, Startup Apps, Users, Details, and Services. The system information is displayed in a Treeview widget, and interactive features include buttons for managing or interacting with listed processes.
+
+[![Static Badge](https://img.shields.io/badge/tkinter-green)](https://pypi.org/project/tkinter/)
+[![Static Badge](https://img.shields.io/badge/matplotlib-pink)](https://pypi.org/project/matplotlib/)
+[![Static Badge](https://img.shields.io/badge/numpy-orange)](https://pypi.org/project/numpy/)
+[![Static Badge](https://img.shields.io/badge/psutil-red)](https://pypi.org/project/psutil/)
+[![Static Badge](https://img.shields.io/badge/pygetwindow-gray)](https://pypi.org/project/pygetwindow/)
 
 # Table of Contents
 
